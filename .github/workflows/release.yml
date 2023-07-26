@@ -24,7 +24,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -am "chore: 更新版本文件"
+          git commit -m "chore: 更新版本文件"
           git push
 
       - uses: ncipollo/release-action@v1
