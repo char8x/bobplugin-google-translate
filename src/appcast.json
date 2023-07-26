@@ -4,7 +4,7 @@
     {
       "version": "0.7.1",
       "desc": "https://github.com/char8x/bobplugin-google-translate/blob/master/CHANGELOG.md",
-      "sha256": "daf10af6b66bc91ea5298e3a6a851f5f7e1f31e46bc8f67da8b923a37054de66",
+      "sha256": "98ca114c6baf16adcd7f91d4d7064a579f3a47986bf1395d00348cfdfe79a84a",
       "url": "https://github.com/char8x/bobplugin-google-translate/releases/download/v0.7.1/google-translate-v0.7.1.bobplugin",
       "minBobVersion": "0.5.0"
     },
