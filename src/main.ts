@@ -14,7 +14,7 @@ function supportLanguages(): Bob.supportLanguages {
 function translate(query: Bob.TranslateQuery, completion: Bob.Completion) {
   const { text = '', detectFrom, detectTo } = query;
 
-  // https://github.com/roojay520/bobplugin-google-translate/issues/21
+  // https://github.com/char8x/bobplugin-google-translate/issues/21
   // 是否开启字符串分隔处理, 默认关闭(现在 Google Translate API 已经能很好的拆分)
   const stringFmt = Bob.api.getOption('stringFmt') === 'enable';
   const str = stringFmt ? formatString(text) : text;

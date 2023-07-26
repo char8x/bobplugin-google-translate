@@ -12,7 +12,7 @@
 ## 安装
 
 1. 安装 [Bob](https://ripperhe.gitee.io/bob/#/general/quickstart/install) (version >= 0.50)
-2. 下载插件: [bobplugin-google-translate](https://github.com/roojay520/bobplugin-google-translate/releases)
+2. 下载插件: [bobplugin-google-translate](https://github.com/char8x/bobplugin-google-translate/releases)
 3. 插件安装: [Bob 插件安装文档说明](https://bobtranslate.com/guide/advance/plugin.html#%E4%BD%BF%E7%94%A8%E6%8F%92%E4%BB%B6-1)
 
 ## 预览

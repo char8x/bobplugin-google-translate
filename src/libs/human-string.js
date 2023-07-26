@@ -23,7 +23,7 @@ var humanizeString = (input) => {
     .trim();
   _input = `${_input.charAt(0).toUpperCase()}${_input.slice(1)}`;
 
-  // https://github.com/roojay520/bobplugin-google-translate/issues/2
+  // https://github.com/char8x/bobplugin-google-translate/issues/2
   if (!_input.includes(' ')) return _input.toLowerCase();
 
   return _input;

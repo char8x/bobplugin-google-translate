@@ -3,6 +3,7 @@ on:
   push:
     tags:
       - '*'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -24,8 +25,8 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --global user.name 'roojay520'
-          git config --global user.email 'roojay520@users.noreply.github.com'
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git commit -am "chore: 更新版本文件"
 
       - name: Push changes

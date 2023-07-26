@@ -6,7 +6,7 @@
   "summary": "Bob google 翻译插件",
   "author": "roojay <roojay520@gmail.com>",
   "appcast": "https://github-raw.roojay.com/roojay520/bobplugin-google-translate/master/src/appcast.json",
-  "homepage": "https://github.com/roojay520/bobplugin-google-translate",
+  "homepage": "https://github.com/char8x/bobplugin-google-translate",
   "icon": "114",
   "minBobVersion": "0.5.0",
   "options": [
